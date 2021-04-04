@@ -8,7 +8,6 @@
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-
 # IPython
 profile_default/
 ipython_config.py
@@ -133,3 +132,12 @@ fabric.properties
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode,pycharm,notepadpp,jupyternotebooks
+
+
+#Mac OS
+*.DS_STORE
+__MACOSX/
+
+# data
+data/raw
+__pycache__/
