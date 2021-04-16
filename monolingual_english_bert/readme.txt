@@ -1,0 +1,1 @@
+This notebook contains code on training monolingual pre-trained BERT on English tweets for the task of sentiment classification. The model was tested on Arabic tweets (so-called zero-shot classification); resulting accuracy is approximately 34%. 
